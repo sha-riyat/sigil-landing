@@ -60,7 +60,7 @@ export default function App() {
         </p>
         <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
           <a href="#install" style={{ background: '#7B5EA7', color: 'white', padding: '0.75rem 1.75rem', borderRadius: '8px', textDecoration: 'none', fontWeight: 500 }}>Get Started</a>
-          <a href="https://github.com/TON_USERNAME/sigil" target="_blank" style={{ border: '1px solid #1E1E2E', color: '#F0EEE8', padding: '0.75rem 1.75rem', borderRadius: '8px', textDecoration: 'none', fontWeight: 500 }}>View on GitHub</a>
+          <a href="https://github.com/sha-riyat/sigil" target="_blank" style={{ border: '1px solid #1E1E2E', color: '#F0EEE8', padding: '0.75rem 1.75rem', borderRadius: '8px', textDecoration: 'none', fontWeight: 500 }}>View on GitHub</a>
         </div>
       </section>
 
@@ -120,7 +120,7 @@ docker compose up`}
       <footer style={{ borderTop: '1px solid #1E1E2E', padding: '2rem', textAlign: 'center', color: '#4A4A5E', fontSize: '0.8rem' }}>
         <span style={{ fontFamily: 'JetBrains Mono, monospace', color: '#7B5EA7' }}>SIGIL</span>
         {' · '}MIT License{' · '}
-        <a href="https://github.com/TON_USERNAME/sigil" style={{ color: '#8A8898' }}>GitHub</a>
+        <a href="https://github.com/sha-riyat/sigil" style={{ color: '#8A8898' }}>GitHub</a>
         {' · '}W3C DID + Verifiable Credentials
       </footer>
     </div>
