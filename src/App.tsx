@@ -44,7 +44,7 @@ export default function App() {
         <div style={{ display: 'flex', gap: '1.5rem', alignItems: 'center' }}>
           <a href="#how" style={{ color: '#8A8898', textDecoration: 'none', fontSize: '0.875rem' }}>How it works</a>
           <a href="#install" style={{ color: '#8A8898', textDecoration: 'none', fontSize: '0.875rem' }}>Install</a>
-          <a href="https://github.com/TON_USERNAME/sigil" target="_blank" style={{ background: '#7B5EA7', color: 'white', padding: '0.4rem 1rem', borderRadius: '6px', textDecoration: 'none', fontSize: '0.875rem' }}>GitHub →</a>
+          <a href="https://github.com/sha-riyat/sigil" target="_blank" style={{ background: '#7B5EA7', color: 'white', padding: '0.4rem 1rem', borderRadius: '6px', textDecoration: 'none', fontSize: '0.875rem' }}>GitHub →</a>
         </div>
       </nav>
 
