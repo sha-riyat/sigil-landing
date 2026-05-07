@@ -66,7 +66,7 @@ export default function App() {
 
       {/* How it works */}
       <section id="how" style={{ maxWidth: '800px', margin: '0 auto', padding: '4rem 2rem' }}>
-        <h2 style={{ textAlign: 'center', fontSize: '1.5rem', fontWeight: 600, marginBottom: '3rem', color: '#8A8898', textTransform: 'uppercase', letterSpacing: '0.15em', fontSize: '0.875rem' }}>How it works</h2>
+        <h2 style={{ textAlign: 'center', fontWeight: 600, marginBottom: '3rem', color: '#8A8898', textTransform: 'uppercase', letterSpacing: '0.15em', fontSize: '0.875rem' }}>How it works</h2>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '1.5rem' }}>
           {[
             { n: '01', title: 'Register', desc: 'Create an agent with a unique DID (W3C did:key). Ed25519 keypair generated locally.' },
